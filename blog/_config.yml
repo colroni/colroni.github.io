@@ -13,7 +13,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'https://colroni.github.io/blog/public/' and root as '/public/'
 url: https://colroni.github.io/
-root: /
+root: 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
