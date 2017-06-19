@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'https://colroni.github.io/blog/public/' and root as '/public/'
-url: https://colroni.github.io/
-root: 
+url: https://colroni.github.io/blog/
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://colroni.github.io
+  repo: https://colroni.github.io/blog/
   branch: gh-pages
